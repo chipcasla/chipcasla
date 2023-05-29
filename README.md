@@ -29,7 +29,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-@cuervoforesi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/cuervoforesi)
 [![Instagram](https://img.shields.io/badge/Instagram-@aleforesi07-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/aleforesi07)
 </br>
-Si quieres contactarme puedes hacerlo a través de mi correo electrónico: alejandroforesi15@gmail.com
+Si querés contactarme podés hacerlo a través de mi correo electrónico: alejandroforesi15@gmail.com
 
 <!--
 **chipcasla/chipcasla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
