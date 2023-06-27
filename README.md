@@ -1,5 +1,4 @@
 # Hola, soy Alejandro Foresi 👋:fries::argentina:
-![images](https://github.com/chipcasla/chipcasla/assets/103225088/cd97d29e-dd7f-4f21-a464-d21244256d33)
 
 ## Sobre mí :man_technologist:
 
