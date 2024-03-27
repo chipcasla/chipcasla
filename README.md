@@ -1,4 +1,4 @@
-# Hola, soy Alejandro Foresi 👋:fries::argentina:
+# Hola, soy Alejandro Foresi 👋 :fries: :argentina:
 
 ## Sobre mí :man_technologist:
 
@@ -6,6 +6,7 @@
 
 ## Proyectos destacados :rocket:	
 - [School Management with JAVA](https://github.com/chipcasla/tp-java-2022): Este es un proyecto web de gestión escolar programado con JAVA y con una base de datos en MySQL. 
+- [Sistema de Gestion Restaurante](https://github.com/chipcasla/utn-dsw): Esta es una aplicación web full stack cuya principal función es la gestión de reservas de un restaurante. Fue desarrollado el backend en JavaScript mediante la exposición de una API Express que interactúa con el frontend donde se usó Angular. Cuenta con una base de datos en mysql y para la persistencia se usó el ORM Sequelize.
 
 ## Habilidades :footprints:	
 - ##### Lenguajes de programación:
