@@ -1,47 +1,91 @@
-# Hola, soy Alejandro Foresi 👋 :fries: :argentina:
+<p align="center">
+  <h1 align="center">Hola, soy Alejandro Foresi (chipcasla) 👋</h1>
+  <p align="center">
+    <b>Ingeniero en Sistemas de Información (UTN Rosario)</b><br/>
+    🚀  Transformo problemas reales en software útil, moderno y mantenible.
+  </p>
+</p>
 
-## Sobre mí :man_technologist:
+<p align="center">
+  <a href="https://www.linkedin.com/in/alejandroforesi/"> 💼 LinkedIn</a> ·
+  <!-- <a href="TODO_PORTFOLIO">Portfolio</a> · -->
+  <a href="mailto:alejandroforesi15@gmail.com"> ✉️ Email</a>
+</p>
 
-¡Hola! Soy Alejandro Foresi, estudiante de ingeniería en sistemas :computer: en UTN Rosario. Soy un apasionado por la tecnología y el desarrollo de software. Me encanta aprender cosas nuevas y mejorar mis habilidades técnicas en cada proyecto en el que trabajo. En mi tiempo libre disfruto mirar películas :film_projector:, y jugar al fútbol :soccer:
+<p align="center">
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img alt="Android" src="https://img.shields.io/badge/Android-000?style=for-the-badge&logo=android&logoColor=white"/>
+  <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack%20Compose-000?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img alt="C#" src="https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010"/>
+</p>
 
-## Proyectos destacados :rocket:	
-- [School Management with JAVA](https://github.com/chipcasla/tp-java-2022): Este es un proyecto web de gestión escolar programado con JAVA y con una base de datos en MySQL. 
-- [Sistema de Gestion Restaurante](https://github.com/chipcasla/utn-dsw): Esta es una aplicación web full stack cuya principal función es la gestión de reservas de un restaurante. Fue desarrollado el backend en JavaScript mediante la exposición de una API Express que interactúa con el frontend donde se usó Angular. Cuenta con una base de datos en mysql y para la persistencia se usó el ORM Sequelize.
+---
 
-## Habilidades :footprints:	
-- ##### Lenguajes de programación:
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)]() 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-- ##### Frameworks: 
-[![Angular](https://img.shields.io/badge/Angular-D52727?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
-- ##### Bases de datos: 
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-- ##### Otras herramientas:
-[![Git](https://img.shields.io/badge/GIT-FF4500?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
-[![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
-[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+## ⚡ En qué me destaco
+- **Producto primero**: análisis de requerimientos, reglas de negocio, performance y UX
+- **Arquitectura**: diseños modernos y escalables
+- **Entrega**: aporto soluciones para necesidades operativas y de negocio
+- **Comunicación**: decisiones claras, documentación útil, equipo alineado
 
+---
 
-## Contacto :ledger:		
-[![Twitter](https://img.shields.io/badge/Twitter-@cuervoforesi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/cuervoforesi)
-[![Instagram](https://img.shields.io/badge/Instagram-@aleforesi07-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/aleforesi07)
-</br>
-Si querés contactarme podés hacerlo a través de mi correo electrónico: alejandroforesi15@gmail.com
+## 🧠 Lo que sé hacer
 
-<!--
-**chipcasla/chipcasla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mobile (Android & Multiplatform)
+- Offline-first, sincronización, persistencia, UI moderna y performante  
+`Kotlin` · `Jetpack Compose` · `Coroutines/Flow` · `Room` · `WorkManager` · `Retrofit` · `Hilt` · `Firebase`
 
-Here are some ideas to get you started:
+### Backend
+- APIs limpias, seguridad, datos y reglas de negocio  
+`.NET` · `C#` · `Entity Framework` · `JWT/Identity` · `SignalR` · `SQL`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+- Interfaces claras y mantenibles, flujos complejos priorizando UX
+`Angular` · `Bootstrap / Angular Material`
+
+### Data / AI
+- BI, modelos IA, ciencia de datos, y computer vision  
+`Python (TensorFlow, PyTorch, Scikit-learn)` · `Modelado` · `YOLO`
+
+---
+
+## 🎯 Busco
+Proyectos donde pueda aportar fuerte en **Android**, **Backend .NET** o **Full-Stack (Angular + .NET)**.  
+Me interesan equipos que valoren **calidad, impacto y entrega**.
+
+Otros intereses: **Data Mining**, **Computer Vision**, **Data Science**
+
+---
+
+## 📌 Proyectos
+- [**Sistema de gestión de donaciones para Caritas (Angular + .NET)**](https://github.com/Matiaja/Proyecto-Caritas)
+- [**Restaurant Management System (Angular + Node/Express)**](https://github.com/chipcasla/utn-dsw) 
+
+---
+
+## 📫 Contacto
+<p>
+  <a href="https://www.linkedin.com/in/alejandroforesi/" target="_blank">
+    <img alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/ffffff" height="18" />
+    <span> LinkedIn</span>
+  </a>
+  &nbsp;·&nbsp;
+  <a href="mailto:alejandroforesi15@gmail.com">
+    <img alt="Email" src="https://cdn.simpleicons.org/gmail/ffffff" height="18" />
+    <span> Email</span>
+  </a>
+ <!-- &nbsp;·&nbsp;
+   <a href="https://TU-URL">
+    <img alt="Portfolio" src="https://cdn.simpleicons.org/vercel/ffffff" height="18" />
+    <span> Portfolio</span>
+  </a> 
+  &nbsp;·&nbsp;
+  <a href="https://TU-URL-CV">
+    <img alt="CV" src="https://cdn.simpleicons.org/readthedocs/ffffff" height="18" />
+    <span> CV</span>
+  </a>-->
+</p>
