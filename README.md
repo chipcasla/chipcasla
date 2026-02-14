@@ -64,7 +64,8 @@ Me interesan equipos que valoren **calidad, impacto y entrega**.
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:alejandroforesi15@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-101010?style=flat&logo=maildotru&logoColor=white" />
+</a>
   </a>
  <!-- &nbsp;·&nbsp;
    <a href="https://TU-URL">
