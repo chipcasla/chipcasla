@@ -49,8 +49,13 @@ Soy Ingeniero en Sistemas de Información. Construyo productos de software **út
 ---
 
 ## 📌 Proyectos
-- [**Sistema de gestión de donaciones para Caritas (Angular + .NET)**](https://github.com/Matiaja/Proyecto-Caritas)
-- [**Restaurant Management System (Angular + Node/Express)**](https://github.com/chipcasla/utn-dsw) 
+### 📱 App de Gestión / Utilidad (En desarrollo)
+*Proyecto enfocado en arquitectura offline-first y manejo avanzado de datos locales.*
+- **Desafío técnico:** Implementación de persistencia compleja y herramientas de auditoría. Desarrollo de una funcionalidad para exportar la base de datos local completa (incluyendo tablas de logs) a un archivo ZIP protegido con contraseña, facilitando el debugging y el soporte técnico de forma segura.
+### [**🤝 Sistema de gestión de donaciones para Caritas (Angular + .NET)**](https://github.com/Matiaja/Proyecto-Caritas)
+- **Rol:** Desarrollo Full-Stack para el sistema integral de gestión de donantes y aportes.
+### [**🍽️ Restaurant Management System (Angular + Node/Express)**](https://github.com/chipcasla/utn-dsw)
+- **Rol:** Desarrollo de plataforma para la administración gastronómica.
 
 ---
 
