@@ -20,7 +20,7 @@
 ---
 
 ## 👤 Sobre mí
-Soy Ingeniero en Sistemas de Información. Construyo productos de software **útiles, modernos y mantenibles** con foco en **calidad, performance y UX**. Me gustra trabajar en aspectos como:
+Soy Ingeniero en Sistemas de Información. Construyo productos de software **útiles, modernos y mantenibles** con foco en **calidad, performance y UX**. Me gusta trabajar en aspectos como:
 
 - **Producto** · requerimientos y reglas de negocio  
 - **Arquitectura** · simple, escalable, moderna  
@@ -61,12 +61,12 @@ Me interesan equipos que valoren **calidad, impacto y entrega**.
 > Otros intereses: **Data Mining**, **Computer Vision**, **Data Science**
 <p>
   <a href="https://www.linkedin.com/in/alejandroforesi/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" height="18" alt="LinkedIn"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     <span> LinkedIn</span>
   </a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:alejandroforesi15@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" height="18" alt="Email"/>
+        <img alt="Email" src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
     <span> Email</span>
   </a>
  <!-- &nbsp;·&nbsp;
