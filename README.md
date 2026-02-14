@@ -61,15 +61,19 @@ Me interesan equipos que valoren **calidad, impacto y entrega**.
 > Otros intereses: **Data Mining**, **Computer Vision**, **Data Science**
 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/alejandroforesi/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
-    <img alt="LinkedIn" height="30"
-      src="https://api.iconify.design/mdi:linkedin.svg?color=%23ffffff" />
+<p align="center" style="margin-top: 10px;">
+  <a href="https://www.linkedin.com/in/alejandroforesi/"
+     target="_blank" rel="noopener noreferrer" title="LinkedIn"
+     style="text-decoration:none; display:inline-flex; align-items:center; justify-content:center; width:44px; height:44px; border-radius:12px; border:1px solid #2d2d2d; margin-right:10px;">
+    <img alt="LinkedIn" height="26"
+         src="https://api.iconify.design/mdi:linkedin.svg?color=%23ffffff" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:alejandroforesi15@gmail.com" title="Email">
-    <img alt="Email" height="30"
-      src="https://api.iconify.design/mdi:email-outline.svg?color=%23ffffff" />
+
+  <a href="mailto:alejandroforesi15@gmail.com"
+     title="Email"
+     style="text-decoration:none; display:inline-flex; align-items:center; justify-content:center; width:44px; height:44px; border-radius:12px; border:1px solid #2d2d2d;">
+    <img alt="Email" height="26"
+         src="https://api.iconify.design/mdi:email.svg?color=%23ffffff" />
   </a>
 </p>
 
