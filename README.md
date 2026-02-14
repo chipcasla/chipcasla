@@ -28,7 +28,7 @@ Soy Ingeniero en Sistemas de Información. Construyo productos de software **út
 
 ---
 
-## 🧠 Lo que sé hacer
+## 🧠 Tecnologías
 
 ### Mobile (Android & Multiplatform)
 - Offline-first, sincronización, persistencia, UI moderna y performante  
