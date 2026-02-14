@@ -59,22 +59,16 @@ Soy Ingeniero en Sistemas de Información. Construyo productos de software **út
 Me interesan equipos que valoren **calidad, impacto y entrega**.
 
 > Otros intereses: **Data Mining**, **Computer Vision**, **Data Science**
-<p>
-  <a href="https://www.linkedin.com/in/alejandroforesi/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/alejandroforesi/" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" height="18" style="vertical-align: -3px;"
+      src="https://api.iconify.design/mdi:linkedin.svg?color=%23ffffff" />
+    <span> LinkedIn</span>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:alejandroforesi15@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-101010?style=flat&logo=maildotru&logoColor=white" />
-</a>
+    <img alt="Email" height="18" style="vertical-align: -3px;"
+      src="https://api.iconify.design/mdi:email.svg?color=%23ffffff" />
+    <span> Email</span>
   </a>
- <!-- &nbsp;·&nbsp;
-   <a href="https://TU-URL">
-    <img alt="Portfolio" src="https://cdn.simpleicons.org/vercel/ffffff" height="18" />
-    <span> Portfolio</span>
-  </a> 
-  &nbsp;·&nbsp;
-  <a href="https://TU-URL-CV">
-    <img alt="CV" src="https://cdn.simpleicons.org/readthedocs/ffffff" height="18" />
-    <span> CV</span>
-  </a>-->
 </p>
