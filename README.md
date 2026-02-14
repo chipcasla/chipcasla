@@ -61,12 +61,12 @@ Me interesan equipos que valoren **calidad, impacto y entrega**.
 > Otros intereses: **Data Mining**, **Computer Vision**, **Data Science**
 <p>
   <a href="https://www.linkedin.com/in/alejandroforesi/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/linkedin/ffffff" height="18" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" height="18" alt="LinkedIn"/>
     <span> LinkedIn</span>
   </a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:alejandroforesi15@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/ffffff" height="18" alt="Email"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" height="18" alt="Email"/>
     <span> Email</span>
   </a>
  <!-- &nbsp;·&nbsp;
