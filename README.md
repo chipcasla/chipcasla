@@ -2,14 +2,8 @@
   <h1 align="center">Hola, soy Alejandro Foresi (chipcasla) 👋</h1>
   <p align="center">
     <b>Ingeniero en Sistemas de Información (UTN Rosario)</b><br/>
-    🚀  Transformo problemas reales en software útil, moderno y mantenible.
+    🚀  Transformo ideas en software real, moderno y mantenible.
   </p>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/alejandroforesi/"> 💼 LinkedIn</a> ·
-  <!-- <a href="TODO_PORTFOLIO">Portfolio</a> · -->
-  <a href="mailto:alejandroforesi15@gmail.com"> ✉️ Email</a>
 </p>
 
 <p align="center">
@@ -25,11 +19,12 @@
 
 ---
 
-## ⚡ En qué me destaco
-- **Producto primero**: análisis de requerimientos, reglas de negocio, performance y UX
-- **Arquitectura**: diseños modernos y escalables
-- **Entrega**: aporto soluciones para necesidades operativas y de negocio
-- **Comunicación**: decisiones claras, documentación útil, equipo alineado
+## 👤 Sobre mí
+Soy Ingeniero en Sistemas de Información. Construyo productos de software **útiles, modernos y mantenibles** con foco en **calidad, performance y UX**. Me gustra trabajar en aspectos como:
+
+- **Producto** · requerimientos y reglas de negocio  
+- **Arquitectura** · simple, escalable, moderna  
+- **Entrega** · necesidades reales → software real
 
 ---
 
@@ -44,20 +39,12 @@
 `.NET` · `C#` · `Entity Framework` · `JWT/Identity` · `SignalR` · `SQL`
 
 ### Frontend
-- Interfaces claras y mantenibles, flujos complejos priorizando UX
+- Interfaces claras y mantenibles, flujos complejos priorizando UX  
 `Angular` · `Bootstrap / Angular Material`
 
 ### Data / AI
 - BI, modelos IA, ciencia de datos, y computer vision  
 `Python (TensorFlow, PyTorch, Scikit-learn)` · `Modelado` · `YOLO`
-
----
-
-## 🎯 Busco
-Proyectos donde pueda aportar fuerte en **Android**, **Backend .NET** o **Full-Stack (Angular + .NET)**.  
-Me interesan equipos que valoren **calidad, impacto y entrega**.
-
-Otros intereses: **Data Mining**, **Computer Vision**, **Data Science**
 
 ---
 
@@ -68,14 +55,18 @@ Otros intereses: **Data Mining**, **Computer Vision**, **Data Science**
 ---
 
 ## 📫 Contacto
+🎯 Proyectos donde pueda aportar fuerte en **Android**, **Backend .NET** o **Full-Stack (Angular + .NET)**.  
+Me interesan equipos que valoren **calidad, impacto y entrega**.
+
+> Otros intereses: **Data Mining**, **Computer Vision**, **Data Science**
 <p>
-  <a href="https://www.linkedin.com/in/alejandroforesi/" target="_blank">
-    <img alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/ffffff" height="18" />
+  <a href="https://www.linkedin.com/in/alejandroforesi/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/linkedin/ffffff" height="18" alt="LinkedIn"/>
     <span> LinkedIn</span>
   </a>
-  &nbsp;·&nbsp;
+  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:alejandroforesi15@gmail.com">
-    <img alt="Email" src="https://cdn.simpleicons.org/gmail/ffffff" height="18" />
+    <img src="https://cdn.simpleicons.org/gmail/ffffff" height="18" alt="Email"/>
     <span> Email</span>
   </a>
  <!-- &nbsp;·&nbsp;
