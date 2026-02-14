@@ -59,16 +59,17 @@ Soy Ingeniero en Sistemas de Información. Construyo productos de software **út
 Me interesan equipos que valoren **calidad, impacto y entrega**.
 
 > Otros intereses: **Data Mining**, **Computer Vision**, **Data Science**
+
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/alejandroforesi/" target="_blank" rel="noopener noreferrer">
-    <img alt="LinkedIn" height="18" style="vertical-align: -3px;"
+  <a href="https://www.linkedin.com/in/alejandroforesi/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+    <img alt="LinkedIn" height="30"
       src="https://api.iconify.design/mdi:linkedin.svg?color=%23ffffff" />
-    <span> LinkedIn</span>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:alejandroforesi15@gmail.com">
-    <img alt="Email" height="18" style="vertical-align: -3px;"
-      src="https://api.iconify.design/mdi:email.svg?color=%23ffffff" />
-    <span> Email</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:alejandroforesi15@gmail.com" title="Email">
+    <img alt="Email" height="30"
+      src="https://api.iconify.design/mdi:email-outline.svg?color=%23ffffff" />
   </a>
 </p>
+
